@@ -1,0 +1,5 @@
+jsonpickle==1.1
+jsonschema==2.6.0
+matplotlib==3.0.2
+networkx==2.2
+requests==2.21.0
